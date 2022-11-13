@@ -124,7 +124,7 @@ li {
 
 }
 
-.card-img {
+.img1 {
    display: flex;
    width: 310px;
    height: 197px;
@@ -151,11 +151,11 @@ li {
    /* width: 151px;
     height: 14px; */
    color: #1a1a1b;
-   font-size: 17px;
+   font-size: 17.998149871826172px;
    padding-top: 10px;
    padding-bottom: 12px;
 }
 
 .box {
-   margin-left: 257px;
+   margin-left: 258px;
 }
