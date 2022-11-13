@@ -79,8 +79,10 @@ li {
 .text-section {
    width: 242px;
    height: 238px;
-   display: flex;
-   justify-content: space-between;
+   /* display: flex; */
+   /* justify-content: space-between; */
+   margin-right: 41px;
+
 }
 
 .text-discover {
@@ -109,14 +111,19 @@ li {
    display: flex;
    width: 1257px;
    height: 731px;
-   margin-top: 70px;
-   flex-wrap: wrap;
-   gap: ;
+   margin: 40px auto 93px;
    background-color: rgba(0, 0, 0, 0);
-   /* justify-content: space-between; */
-   column-gap: 20px;
+
 }
 
+.wrapper {
+   width: 974px;
+   height: 731px;
+   display: flex;
+   flex-wrap: wrap;
+   column-gap: 20px;
+
+}
 
 .card {
    width: 310px;
@@ -131,9 +138,6 @@ li {
 
 }
 
-.box {
-   margin-left: 60px;
-}
 
 .img1 {
    width: 310px;
@@ -154,8 +158,4 @@ li {
    font-size: 17.998149871826172px;
    padding-top: 10px;
    padding-bottom: 12px;
-}
-
-.box {
-   margin-left: 258px;
 }
