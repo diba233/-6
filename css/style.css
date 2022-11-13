@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Roboto:wght@400;700&display=swap');
+body {
+    font-family: 'Raleway', sans-seri;
+    width: 1358px;
+    height: 1499px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 83px;
+    padding-right: 93px;
+    margin: 0 auto;
+    width: 1360px;
+    height: 81px;
+    background-color: green;
+   
+}
+
+ .logo {
+    width: 145px;
+    height: 31px;
+    /* margin-left: 93px; */
+
+ }
+
+nav ul {
+    display: flex;
+}
+.home {
+    padding-left: 47px;
+}
+li {
+    padding-left: 48px;
+    font-size: 15.742380142211914;
+}
+
+ /* ...--section > */
+ .main-poto {
+    position: relative;
+ }
+
+ .navagio {
+    
+    width: 1360px;
+    height: 569px;
+ }
+
+ .discover {
+
+    position: absolute;
+    top: 226px;
+    right: 348px;
+    bottom: 308px;
+    left: 414px;
+    width: 588px;
+    height: 60px;
+    font-size: 70px;
+    color: #ffffff;
+ }
+ .travel {
+    position: absolute;
+    top: 342px;
+    right: 519px;
+    bottom: 384px;
+    left: 527px;
+    width: 314px;
+    height: 14px;
+    font-size: 18px;
+    color: #ffffff;
+ }
+
+ .text-section {
+    width: 242px;
+    height: 238px;
+    border: 1px solid red;
+    display: flex;
+  }
+  
+ .text-discover {
+    width: 80ox;
+    height: 13px;
+    font-size: 15px;
+ }
+ .text-servises {
+    width: 203px;
+    height: 21px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 13px;
+    margin-bottom: 41px;
+ }
+
+ .text-lorem {
+    width: 242px;
+    height: 145px;
+    display: flex;
+
+ }
+
+ .container {
+    width: 1257px;
+    height: 731px;
+    /* background-color: yellow; */
+ }
+ .text-lorem {
+    width: 268px;
+    height: 94px;
+ }
+ 
+ .card {
+    width: 310px;
+    height: 327px;
+    background-color: yellow;
+ }
+ .card-img {
+    display: flex;
+    width: 310px;
+    height:197px;
+    background-image: url(../image/tvitmprinavi.png);
+ }
+ .card-text {
+    padding-top: 10px;
+ }
+ .header-h2 {
+    width: 151px;
+    height: 14px;
+    color: #1a1a1b;
+    font-size: 17px;
+ }
